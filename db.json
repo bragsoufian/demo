@@ -8,6 +8,6 @@
         { "type": "Feature", "properties": { "Primary": "2.0", "Secondary": "Nevada" }, "geometry": { "type": "Point", "coordinates": [ -11.8621449,28.1458744 ] } },
         { "type": "Feature", "properties": { "Primary": "5.0", "Secondary": "Southern East Pacific Rise" }, "geometry": { "type": "Point", "coordinates": [ -10.8621449,28.8458744 ] } },
         { "type": "Feature", "properties": { "Primary": "1.8", "Secondary": "154km S of Tanana, Alaska" }, "geometry": { "type": "Point", "coordinates": [ -10.8621449,28.6458744 ] } },
-        { "type": "Feature", "properties": { "Primary": "2.99", "Secondary": "27km SSE of Saint George, Utah" }, "geometry": { "type": "Point", "coordinates": [ -10.3621449,28.5458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "2.99", "Secondary": "27km SSE of Saint George, Utah" }, "geometry": { "type": "Point", "coordinates": [ -10.3621449,28.5458744 ] } }
     ]
 }
