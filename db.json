@@ -1,7 +1,13 @@
 {                                                                                    
     "features": [
-        { "type": "Feature", "properties": "azdaz"},
-        { "type": "Feature", "properties": "azdaz"}
-         
-         ]
+        { "type": "Feature", "properties": { "Primary": "1.26", "Secondary": "7km NE of Lake Arrowhead, California" }, "geometry": { "type": "Point", "coordinates": [ -11.3621449,26.7458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "1.87", "Secondary": "13km NNE of Pahala, Hawaii" }, "geometry": { "type": "Point", "coordinates": [ -11.3621449,26.8458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "1.8", "Secondary": "3km SW of Ridgeway, Alaska" }, "geometry": { "type": "Point", "coordinates": [ -11.3621449,27.7458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "1.6", "Secondary": "17km ENE of Fernley, Nevada" }, "geometry": { "type": "Point", "coordinates": [ -11.8621449,27.1458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "3.0", "Secondary": "6km NE of Edmond, Oklahoma" }, "geometry": { "type": "Point", "coordinates": [ -10.8621449,28.1458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "2.0", "Secondary": "Nevada" }, "geometry": { "type": "Point", "coordinates": [ -11.8621449,28.1458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "5.0", "Secondary": "Southern East Pacific Rise" }, "geometry": { "type": "Point", "coordinates": [ -10.8621449,28.8458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "1.8", "Secondary": "154km S of Tanana, Alaska" }, "geometry": { "type": "Point", "coordinates": [ -10.8621449,28.6458744 ] } },
+        { "type": "Feature", "properties": { "Primary": "2.99", "Secondary": "27km SSE of Saint George, Utah" }, "geometry": { "type": "Point", "coordinates": [ -10.3621449,28.5458744 ] } }
+    ]
 }
